@@ -1,10 +1,9 @@
+import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
 import HomeScreen from './Screens/HomeScreen';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import ProductScreen from './Screens/ProductScreen';
 import Navbar from 'react-bootstrap/Navbar';
 import Container from 'react-bootstrap/Container';
 import { LinkContainer } from 'react-router-bootstrap';
-
 function App() {
   return (
     <BrowserRouter>
@@ -13,16 +12,16 @@ function App() {
           <Navbar bg="dark" variant="dark">
             <Container>
               <LinkContainer to="/">
-                <Navbar.Brand>eCom!</Navbar.Brand>
+                <Navbar.Brand>amazona</Navbar.Brand>
               </LinkContainer>
             </Container>
           </Navbar>
         </header>
         <main>
-          <Container>
+          <Container className="mt-3">
             <Routes>
-              <Route path="/" element={<HomeScreen />} />
               <Route path="/product/:slug" element={<ProductScreen />} />
+              <Route path="/" element={<HomeScreen />} />
             </Routes>
           </Container>
         </main>
