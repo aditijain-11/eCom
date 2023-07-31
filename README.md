@@ -51,9 +51,15 @@ This is a vast project that is still in _progress_ and soon will come up with up
 
 ## Apis in Function
 
-Seed Users and Products
-Run this on browser: http://localhost:5000/api/seed
-It returns admin email and password and 4 sample products
+1. **Seed Users** <br>
+   Run this on browser: http://localhost:5000/api/seed
+   It returns admin email and password.
+2. **Admin Login:**
+   Run http://localhost:3000/signin
+   Enter admin email and password and click signin
+3. **Products:** <br>
+   Run this on browser: http://localhost:5000/api/products
+   It returns 4 sample products
 
 ## ScreenShots
 
