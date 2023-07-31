@@ -49,7 +49,7 @@ This is a vast project that is still in _progress_ and soon will come up with up
 
     <br>
 
-### Api in Function
+## Apis in Function
 
 Seed Users and Products
 Run this on browser: http://localhost:5000/api/seed
