@@ -36,7 +36,7 @@ function App() {
           <Navbar bg="dark" variant="dark">
             <Container>
               <LinkContainer to="/">
-                <Navbar.Brand>eComBoy</Navbar.Brand>
+                <Navbar.Brand>eCom!</Navbar.Brand>
               </LinkContainer>
               <Nav className="me-auto">
                 <Link to="/cart" className="nav-ink">
