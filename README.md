@@ -76,7 +76,7 @@
 
 <br>
 
-![Alt text](images/image-7.png)
+![Alt text](images/imagepreview.png)
 
 ### Order product/Payment page
 
