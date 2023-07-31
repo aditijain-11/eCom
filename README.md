@@ -54,7 +54,7 @@ This is a vast project that is still in _progress_ and soon will come up with up
 1. **Seed Users** <br>
    Run this on browser: http://localhost:5000/api/seed
    It returns admin email and password.
-2. **Admin Login:**
+2. **Admin Login:** <br>
    Run http://localhost:3000/signin
    Enter admin email and password and click signin
 3. **Products:** <br>
