@@ -1,10 +1,26 @@
 # eCom!
 
+Welcome to **eCom!** Project, the goal here is to implement an ecommerce website that is user friendly and secure using MERN stack.
+This has many Features including:
+
+- Sign In/Sign Out
+- Add to Cart/ Delete from Cart
+- LocalStorage to keep user's instance protected
+- Order Preview & edits
+- Individual product view
+- Product review
+- Cart view
+- Cart Counter
+- 4 step place order process: **Sign In --> Shipping --> Payment --> Place Order**
+- PayPal payment gateway integration
+
+This is a vast project that is still in _progress_ and soon will come up with updates including enhanced user friendly features.
+
 ## **Project Setup Guide**
 
 - Clone Project in Local `git@github.com:aditijain-11/eCom.git`
 
-- Client Side setup:
+- **Client Side setup:**
 
   - Move to Client folder
   - Run command in Terminal: ` npm install --force`
@@ -12,12 +28,13 @@
 
 <br>
 
-**Note**: Due to some Dependency conflict with use-reducer-logger and babel we are using --force
+    **Note**: Due to some Dependency conflict with use-reducer-logger and babel we are using --force
+
 <br>
 
 - Server Side setup:
   - Move to server folder
-  - Run command in Terminal: `npm init -y`
+  - Run command in Terminal: `npm install`
   - For running backend: `npm start`
 
 <br>
@@ -31,6 +48,12 @@
   **Note:** database created in mongodb atlas, paypal developer used for paypal integration
 
     <br>
+
+### Api in Function
+
+Seed Users and Products
+Run this on browser: http://localhost:5000/api/seed
+It returns admin email and password and 4 sample products
 
 ## ScreenShots
 
