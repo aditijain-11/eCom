@@ -10,10 +10,10 @@
   - Run command in Terminal: ` npm install --force`
   - Run react app with: `npm start`
 
-    <br>
+<br>
 
-  **Note**: Due to some Dependency conflict with use-reducer-logger and babel we are using --force
-  <br>
+**Note**: Due to some Dependency conflict with use-reducer-logger and babel we are using --force
+<br>
 
 - Server Side setup:
   - Move to server folder
@@ -21,6 +21,16 @@
   - For running backend: `npm start`
 
 <br>
+
+- Create .env in the eCom folder and add environment variables
+
+  - JWT_SECRET = somethingsecret
+  - MONGODB_URI=mongodb+srv://database:password@cluster0.xyrtqxp.mongodb.net/dbname?retryWrites=true&w=majority
+  - PAYPAL_CLIENT_ID=' '
+
+  **Note:** database created in mongodb atlas, paypal developer used for paypal integration
+
+    <br>
 
 ## ScreenShots
 
