@@ -67,64 +67,64 @@ This is a vast project that is still in _progress_ and soon will come up with up
 
 <br>
 
-![Alt text](images/image.png)
+![Landing page](images/image.png)
 
 ### Product page
 
 <br>
 
-![Alt text](images/image-1.png)
+![Product page](images/image-1.png)
 
 ### User Visibility on Login
 
 <br>
 
-![Alt text](images/image-10.png)
+![User Visibility Login page](images/image-10.png)
 
 ### Shopping Cart
 
 <br>
 
-![Alt text](images/image-2.png)
+![Shopping Cart page](images/image-2.png)
 
 ### Sign In Page
 
 <br>
 
-![Alt text](images/image-3.png)
+![Sign In page](images/image-3.png)
 
 ### Sign Up Page
 
 <br>
 
-![Alt text](images/image-4.png)
+![Sign Up page](images/image-4.png)
 
 ### Shipping Address
 
 <br>
 
-![Alt text](images/image-5.png)
+![Shipping Address](images/image-5.png)
 
 ### Payment Method
 
 <br>
 
-![Alt text](images/image-6.png)
+![Payment method page](images/image-6.png)
 
 ### Preview Order
 
 <br>
 
-![Alt text](images/imagepreview.png)
+![Preview Order page](images/imagepreview.png)
 
 ### Order product/Payment page
 
 <br>
 
-![Alt text](images/image-8.png)
+![Order Products page](images/image-8.png)
 
 ### PayPal integration
 
 <br>
 
-![Alt text](images/image-9.png)
+![PayPal page](images/image-9.png)
