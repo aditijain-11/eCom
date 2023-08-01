@@ -67,64 +67,64 @@ This is a vast project that is still in _progress_ and soon will come up with up
 
 <br>
 
-![Landing page](/eCom/images/image.jpg)
+![Landing page](/images/image.jpg)
 
 ### Product page
 
 <br>
 
-![Product page](/eCom/images/image-1.jpg)
+![Product page](/images/image-1.jpg)
 
 ### User Visibility on Login
 
 <br>
 
-![User Visibility Login page](/eCom/images/image-10.jpg)
+![User Visibility Login page](/images/image-10.jpg)
 
 ### Shopping Cart
 
 <br>
 
-![Shopping Cart page](/eCom/images/image-2.jpg)
+![Shopping Cart page](/images/image-2.jpg)
 
 ### Sign In Page
 
 <br>
 
-![Sign In page](/eCom/images/image-3.jpg)
+![Sign In page](/images/image-3.jpg)
 
 ### Sign Up Page
 
 <br>
 
-![Sign Up page](/eCom/images/image-4.jpg)
+![Sign Up page](/images/image-4.jpg)
 
 ### Shipping Address
 
 <br>
 
-![Shipping Address](/eCom/images/image-5.jpg)
+![Shipping Address](/images/image-5.jpg)
 
 ### Payment Method
 
 <br>
 
-![Payment method page](/eCom/images/image-6.jpg)
+![Payment method page](/images/image-6.jpg)
 
 ### Preview Order
 
 <br>
 
-![Preview Order page](/eCom/images/imagepreview.jpg)
+![Preview Order page](/images/imagepreview.jpg)
 
 ### Order product/Payment page
 
 <br>
 
-![Order Products page](/eCom/images/image-8.jpg)
+![Order Products page](/images/image-8.jpg)
 
 ### PayPal integration
 
 <br>
 
-![PayPal page](/eCom/images/image-9.jpg)
+![PayPal page](/images/image-9.jpg)
