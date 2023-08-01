@@ -67,7 +67,7 @@ This is a vast project that is still in _progress_ and soon will come up with up
 
 <br>
 
-![Landing page](https://drive.google.com/file/d/1anHUvR8CYbtWfLX6DoY13G9YlENklssB/view?usp=sharing)
+![Landing page](/images/image.jpg)
 
 ### Product page
 
